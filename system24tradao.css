@@ -30,9 +30,9 @@
 	--txt-2: oklch(60% 0 0);
 	--txt-3: oklch(40% 0 0);
 
-	--acc-0: var(--purple);
-	--acc-1: var(--purple-1);
-	--acc-2: var(--purple-2);
+	--acc-0: var(--shade-0);
+	--acc-1: var(--shade-1);
+	--acc-2: var(--shade-2);
 
 	--border-width: 2px;
 	--border-color: var(--bg-3);
@@ -62,6 +62,9 @@
 	--green: oklch(73% 0.12 160);
 	--green-1: oklch(63% 0.12 160);
 	--green-2: oklch(53% 0.12 160);
+	--shade-0: oklch(90% 0 0);
+	--shade-1: oklch(70% 0 0);
+	--shade-2: oklch(50% 0 0);
 }
 
 :root {
